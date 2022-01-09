@@ -1,5 +1,5 @@
 name: Initial repo configuration
-#on: push
+on: push
 
 jobs:
   setup-repo:
